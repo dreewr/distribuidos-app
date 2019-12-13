@@ -13,7 +13,7 @@ import java.util.concurrent.TimeUnit
 object RetrofitServiceFactory {
 
     val DOCTOR_BASE_URL: String ="https://server-doctor.herokuapp.com/"
-    val ANESTHETIST_BASE_URL: String ="https://server-doctor.herokuapp.com/"
+    val ANESTHETIST_BASE_URL: String ="https://server-anesthetist.herokuapp.com/"
 
     //TODO: Avaliar o uso de URL Base dinâmica usando esse método
 
